@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1_ Sum of multiples of 3 and 5 from 1 to 100", "Task 1_ Sum of multiples of 3 and 5 from 1 to 100\Task 1_ Sum of multiples of 3 and 5 from 1 to 100.csproj", "{8C38CD02-CBA2-4F73-BC32-7F229362D06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C38CD02-CBA2-4F73-BC32-7F229362D06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C38CD02-CBA2-4F73-BC32-7F229362D06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C38CD02-CBA2-4F73-BC32-7F229362D06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C38CD02-CBA2-4F73-BC32-7F229362D06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF65EB0-3CCF-4BEB-9DF0-B512425C2788}
+	EndGlobalSection
+EndGlobal
